@@ -2,6 +2,8 @@ body{
     background-color: rgb(0, 0, 0);
     font-size: 18px;
     overflow: hidden;
+    font-family: 'Handlee', cursive;
+
 }
 input {
     font-size: 18px;
@@ -20,28 +22,46 @@ input {
 .titulo{
     margin: 0%;
     overflow: hidden;
-    background-color: green;
+    background-color: rgb(255, 255, 255);
 }
 .titulo img{
     max-width: 60px;
     float: right;
+    padding-top: 5px;
+    padding-right: 10px;
+}
+
+
+.cuerpo{
+    overflow: hidden;
 }
 
 .text{
-    background-color: red;
+    background-color: rgb(255, 255, 255);
     float: left;
     width: 50%;
-
+    text-align: justify;
+   
 }
-.input{
+
+
+.gruopinput{
     float: right;
     width: 50%;
-    display: block;
+    border: none;
+    
 }
+
+.input{
+    border: none;
+    border-bottom: 1px solid gray;
+    margin-bottom: 15px;
+}
+
 
 .buttom { 
     border: none;
-    border-bottom: 1px solid gray; 
-    overflow: hidden;
+    text-align: center;
+        
 
 }
