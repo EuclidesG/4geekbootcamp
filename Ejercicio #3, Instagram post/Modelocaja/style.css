@@ -1,0 +1,55 @@
+
+body{
+    background-color: black;
+    font-family: 'Handlee', cursive;
+    font-size: 16px;
+}
+   div {
+    outline: 3px /* dotted red */ ; 
+    
+}
+
+.bigdiv {
+    margin-left: 500px;
+    margin-right: 400px;
+    margin-top: 100px;
+    background-color: white;
+}
+
+.trespuntos{
+    float: right;
+    font-size: 24px;
+    margin-top: 10px;
+    padding-right: 5px;
+    
+}
+
+.html5{
+    float: left;
+    font-size: 32px;
+    padding: 5px 5px
+}
+
+.rigoberto {
+    float: left;
+    font-size: 14px;
+    margin-top: 8px;
+
+}
+
+.encabezado {
+    padding: 3px 3px;
+    
+}
+
+.caja {
+    overflow: hidden;
+    padding: 10px;
+    font-size: 20px;
+}
+
+.caja2 {
+    overflow: hidden;
+    padding: 10px;
+}
+
