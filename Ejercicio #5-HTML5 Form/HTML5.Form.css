@@ -1,0 +1,13 @@
+
+
+input {
+    border-radius: 20%;
+}
+label {
+    font-weight: bold;
+}
+
+img {
+    max-width:25px;
+    height: 25px;
+}
